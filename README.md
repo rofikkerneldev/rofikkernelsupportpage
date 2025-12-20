@@ -57,18 +57,18 @@
 
 | Field | Info |
 |-------|------|
-| **OS** | LineageOS 23.1
+| **OS** | MICA OSS 16-QPR2
 | **Device** | LG V60 ThinQ *(timelm)* |  
 | **Android Version** | 16.2 |
 | **Build Type** | Unofficial
-| **Security Patch** | Nov 2025 |
-| **Last Build** | 18 Dec 2025 |
+| **Security Patch** | DEC 2025 |
+| **Last Build** | 20 Dec 2025 |
 | **Maintainer** | [@rofikkerneldev](https://t.me/rofikkerneldev) |
 
 ---
 
 ## 📦 Downloads
-- 📁 **ROM:** [>>Mirror](https://pixeldrain.com/u/sePjY7Ue)  
+- 📁 **ROM:** [>>Mirror](https://pixeldrain.com/u/1v8HV9Nb)  
 - 🖼️ **Screenshots:** [View on Telegram](https://t.me/rofikkerneldev/492)  
 - 🧾 **Installation Guide:** [>>](https://telegra.ph/Install-AOSP-LG-V60-09-25)  
 - 🔔 **Update Channel:** [Telegram Updates](https://t.me/rofikkerneldev)
