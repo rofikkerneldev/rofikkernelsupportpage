@@ -57,7 +57,7 @@
 
 | Field | Info |
 |-------|------|
-| **OS** | MICA OSS 16-QPR2
+| **OS** | LineageOS 23.2
 | **Device** | LG V60 ThinQ *(timelm)* |  
 | **Android Version** | 16.2 |
 | **Build Type** | Unofficial
@@ -68,7 +68,7 @@
 ---
 
 ## 📦 Downloads
-- 📁 **ROM:** [>>Mirror](https://pixeldrain.com/u/1v8HV9Nb)  
+- 📁 **ROM:** [>>Mirror](https://pixeldrain.com/u/aM5FJpTY)  
 - 🖼️ **Screenshots:** [View on Telegram](https://t.me/rofikkerneldev/492)  
 - 🧾 **Installation Guide:** [>>](https://telegra.ph/Install-AOSP-LG-V60-09-25)  
 - 🔔 **Update Channel:** [Telegram Updates](https://t.me/rofikkerneldev)
