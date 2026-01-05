@@ -37,8 +37,11 @@
 | 1 | **Haitch Tea** | BuyMeCoffee | ![PLATINUM](https://img.shields.io/badge/PLATINUM-E5E4E2?style=for-the-badge&labelColor=555555&logo=github-sponsors&logoColor=white) |
 | 2 | **Andrés** | PayPal | ![BRONZE](https://img.shields.io/badge/BRONZE-CD7F32?style=for-the-badge&labelColor=555555&logo=github-sponsors&logoColor=white) |
 | 3 | **PierceCipher** | Crypto | ![SILVER](https://img.shields.io/badge/SILVER-C0C0C0?style=for-the-badge&labelColor=555555&logo=github-sponsors&logoColor=white) |
-| 4 | *Coming Soon* | — | — |
-| 5 | *Coming Soon* | — | — |
+| 4 | *Amine Mhedhebi* | Paypal | ![SILVER](https://img.shields.io/badge/SILVER-C0C0C0?style=for-the-badge&labelColor=555555&logo=github-sponsors&logoColor=white) |
+| 5 | *Giovany Ramirez Perez* | Paypal | ![SILVER](https://img.shields.io/badge/SILVER-C0C0C0?style=for-the-badge&labelColor=555555&logo=github-sponsors&logoColor=white) |
+| 6 | *Coming Soon* | — | — |
+| 7 | *Coming Soon* | — | — |
+| 8 | *Coming Soon* | — | — |
 
 > Want your name featured here? Donate via any link above ❤️
 ### 🏅 Rank Legend
