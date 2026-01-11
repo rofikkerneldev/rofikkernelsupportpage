@@ -35,7 +35,7 @@
 | No. | Name / Username | Platform | Rank |
 |:---:|:----------------|:----------|:------|
 | 1 | **Haitch Tea** | BuyMeCoffee | ![PLATINUM](https://img.shields.io/badge/PLATINUM-E5E4E2?style=for-the-badge&labelColor=555555&logo=github-sponsors&logoColor=white) |
-| 2 | **Andrés** | PayPal | ![BRONZE](https://img.shields.io/badge/BRONZE-CD7F32?style=for-the-badge&labelColor=555555&logo=github-sponsors&logoColor=white) |
+| 2 | **Andrés** | PayPal | ![GOLD](https://img.shields.io/badge/GOLD-FFD700?style=for-the-badge&labelColor=555555&logo=github-sponsors&logoColor=white)|
 | 3 | **PierceCipher** | Crypto | ![SILVER](https://img.shields.io/badge/SILVER-C0C0C0?style=for-the-badge&labelColor=555555&logo=github-sponsors&logoColor=white) |
 | 4 | *Amine Mhedhebi* | Paypal | ![SILVER](https://img.shields.io/badge/SILVER-C0C0C0?style=for-the-badge&labelColor=555555&logo=github-sponsors&logoColor=white) |
 | 5 | *Giovany Ramirez Perez* | Paypal | ![SILVER](https://img.shields.io/badge/SILVER-C0C0C0?style=for-the-badge&labelColor=555555&logo=github-sponsors&logoColor=white) |
