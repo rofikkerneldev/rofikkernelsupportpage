@@ -60,7 +60,7 @@
 
 | Field | Info |
 |-------|------|
-| **OS** | Project Infinity X 3.9
+| **OS** | Project Infinity X 3.9 | MATRIXX AURORA 12.2
 | **Device** | LG V60 ThinQ *(timelm)* |  
 | **Android Version** | 16.2 |
 | **Build Type** | Vanilla
@@ -71,7 +71,7 @@
 ---
 
 ## 📦 Downloads
-- 📁 **ROM:** [>>Mirror](https://pixeldrain.com/u/dtq89La9)  
+- 📁 **ROM:** [INFINITY3.9](https://pixeldrain.com/u/dtq89La9)   | [AURORA 12.2](https://pixeldrain.com/u/yBoCf8Hz)  
 - 🖼️ **Screenshots:** [View on Telegram](https://t.me/rofikkerneldev/492)  
 - 🧾 **Installation Guide:** [>>](https://telegra.ph/Install-AOSP-LG-V60-09-25)  
 - 🔔 **Update Channel:** [Telegram Updates](https://t.me/rofikkerneldev)
