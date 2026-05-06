@@ -60,7 +60,7 @@
 
 | Field | Info |
 |-------|------|
-| **OS** | Project Infinity X 3.9 | MATRIXX AURORA 12.2
+| **OS** | Project Infinity X 3.9 - MATRIXX AURORA 12.2
 | **Device** | LG V60 ThinQ *(timelm)* |  
 | **Android Version** | 16.2 |
 | **Build Type** | Vanilla
