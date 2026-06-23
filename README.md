@@ -4,7 +4,11 @@
 </p>
 
 ---
-<p align="center"> ## 💖 Support the Project</p>
+<p align="center"> ## 💖 This For Public Support Page</p>
+<p align="center"> for Private Rom Support Goto <a href="https://telegra.ph/Port-ROM-Private---RofikKernelDev-06-06">
+   Private Support
+  </a></p>
+
 <p align="center">If you appreciate this ROM, you can help development continue ☕</p>
 
 <p align="center">
