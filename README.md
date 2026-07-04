@@ -38,14 +38,16 @@
 
 | No. | Name / Username | Platform | Rank |
 |:---:|:----------------|:----------|:------|
-| 1 | **Haitch Tea** | BuyMeCoffee | ![PLATINUM](https://img.shields.io/badge/PLATINUM-E5E4E2?style=for-the-badge&labelColor=555555&logo=github-sponsors&logoColor=white) |
-| 2 | **Andrés** | PayPal | ![GOLD](https://img.shields.io/badge/GOLD-FFD700?style=for-the-badge&labelColor=555555&logo=github-sponsors&logoColor=white)|
-| 3 | **PierceCipher** | Crypto | ![SILVER](https://img.shields.io/badge/SILVER-C0C0C0?style=for-the-badge&labelColor=555555&logo=github-sponsors&logoColor=white) |
-| 4 | *Amine Mhedhebi* | Paypal | ![SILVER](https://img.shields.io/badge/SILVER-C0C0C0?style=for-the-badge&labelColor=555555&logo=github-sponsors&logoColor=white) |
-| 5 | *Giovany Ramirez Perez* | Paypal | ![SILVER](https://img.shields.io/badge/SILVER-C0C0C0?style=for-the-badge&labelColor=555555&logo=github-sponsors&logoColor=white) |
-| 6 | *Coming Soon* | — | — |
-| 7 | *Coming Soon* | — | — |
-| 8 | *Coming Soon* | — | — |
+| - | **Haitch Tea** | BuyMeCoffee | ![PLATINUM](https://img.shields.io/badge/PLATINUM-E5E4E2?style=for-the-badge&labelColor=555555&logo=github-sponsors&logoColor=white) |
+| - | **KOI** | PayPal | ![GOLD](https://img.shields.io/badge/GOLD-FFD700?style=for-the-badge&labelColor=555555&logo=github-sponsors&logoColor=white)|
+| - | **Andrés** | PayPal | ![GOLD](https://img.shields.io/badge/GOLD-FFD700?style=for-the-badge&labelColor=555555&logo=github-sponsors&logoColor=white)|
+| - | **PierceCipher** | Crypto | ![SILVER](https://img.shields.io/badge/SILVER-C0C0C0?style=for-the-badge&labelColor=555555&logo=github-sponsors&logoColor=white) |
+| - | **James Blackburn** | Paypal | ![SILVER](https://img.shields.io/badge/SILVER-C0C0C0?style=for-the-badge&labelColor=555555&logo=github-sponsors&logoColor=white) |
+| - | *Amine Mhedhebi* | Paypal | ![SILVER](https://img.shields.io/badge/SILVER-C0C0C0?style=for-the-badge&labelColor=555555&logo=github-sponsors&logoColor=white) |
+| - | *Giovany Ramirez Perez* | Paypal | ![SILVER](https://img.shields.io/badge/SILVER-C0C0C0?style=for-the-badge&labelColor=555555&logo=github-sponsors&logoColor=white) |
+| - | *Coming Soon* | — | — |
+| - | *Coming Soon* | — | — |
+| - | *Coming Soon* | — | — |
 
 > Want your name featured here? Donate via any link above ❤️
 ### 🏅 Rank Legend
