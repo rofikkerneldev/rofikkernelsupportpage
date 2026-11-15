@@ -5,7 +5,7 @@
 
 ---
 <p align="center"> ## 💖 This For Public Support Page</p>
-<p align="center"> for Private Rom Support Goto <a href="https://telegra.ph/Port-ROM-Private---RofikKernelDev-06-06">
+<p align="center"> for Private Rom Support Goto <a href="https://telegra.ph/ROM-Private---RofikKernelDev-Update-07-27">
    Private Support
   </a></p>
 
